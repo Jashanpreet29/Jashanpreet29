@@ -29,3 +29,14 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/Jashanpreet Kaur" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/jass_aujla29" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jashanpreet29&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jashanpreet29&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jashanpreet29&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Jashanpreet29&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
